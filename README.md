@@ -37,7 +37,7 @@ Make it executable:
 
 Run it with your log file:
 
-          ./log_analyzer.sh  
+          ./log_analyzer.sh /var/log/application.log
 
 ## 🛠️ Requirements
 
